@@ -1,0 +1,12 @@
+﻿frm_options__chkShowAlways<=	FALSE<=	
+frm_options__chkAccept<=	TRUE<=	
+frm_options__rbFiletype<=	bmp<=	
+frm_options__txtBmpPath<=	C:\Windows\web\composed_wallpaper.bmp<=	
+acceptedTerms<=	true<=	
+progRegistered<=	true<=	
+progRegName<=	Max Debug<=	
+progRegEMail<=	debug@max-weller.de<=	
+progRegDate<=	Samstag, 20. November 2010 16:33:52<=	
+progRegInfo<=	MailOK=FALSE<=	
+form1__Rect<=	46;46;800;473<=	
+progRegisteredDone<=	true<=	

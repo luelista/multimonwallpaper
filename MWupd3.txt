@@ -1,0 +1,19 @@
+                ID: 54
+           AppName: multi-mon-wallpaper
+          AppTitle: MultiMonWallpaper
+              Desc: Verschiedene Desktophintergründe bei Multi-Monitor-Systemen
+              Tags: 
+        BigIconURL: 
+      SmallIconURL: 
+            EinDat: 2010-12-05 13:20:42
+            EinDIZ: mw
+           AendDat: 2010-12-05 13:24:35
+           AendDIZ: mw
+ DefaultInstallDir: 
+        CategoryID: 13
+       HomepageURL: http://max-weller.de/multimonwallpaper
+    VersionInfoURL: http://mwupd3.teamwiki.net/request.php?c=get_version_info&appid=54
+           RootURL: http://mwupd3.teamwiki.net/files/
+
+AppID	FileID	FileName	LocalTarget	LocalSource	EinDat	EinDIZ	AendDat	AendDIZ	
+		mmwall.exe		MultiMonWallpaper\bin\Release\mmwall.exe					User_CreateLink User_RunProgram CheckForProcessAlways	-1	

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MultiMonWallpaper
+</name>
+</assembly>
+<members>
+<member name="P:MultiMonWallpaper.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MultiMonWallpaper.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:MultiMonWallpaper.My.Resources.Resources.HelpText">
+	<summary>
+  Looks up a localized string similar to {\rtf1\ansi\ansicpg1252\deff0\deflang1031{\fonttbl{\f0\fswiss\fprq2\fcharset0 Segoe UI;}{\f1\fmodern\fprq1\fcharset0 Courier New;}}
+{\colortbl ;\red128\green0\blue0;\red255\green0\blue0;}
+{\*\generator Msftedit 5.41.21.2508;}\viewkind4\uc1\pard\f0\fs20{\pict\wmetafile8\picwgoal480\pichgoal480 
+010009000003380600000000220600000000050000000b0200000000050000000c024e034e0322
+060000430f2000cc00000020002000000000004e034e0300000000280000002000000020000000
+0100180000000000000c0000c40e0000c40e000000000000000000 [rest of string was truncated]";.
+</summary>
+</member><member name="T:MultiMonWallpaper.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

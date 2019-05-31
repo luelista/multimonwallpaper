@@ -1,0 +1,92 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+mmwall
+</name>
+</assembly>
+<members>
+<member name="M:MultiMonWallpaper.sys_DrawImageClipped.BitBlt(System.IntPtr,System.Int32,System.Int32,System.Int32,System.Int32,System.IntPtr,System.Int32,System.Int32,MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations)">
+	<summary>
+    Performs a bit-block transfer of the color data corresponding to a
+    rectangle of pixels from the specified source device context into
+    a destination device context.
+ </summary>
+	<param name="hdc">Handle to the destination device context.</param>
+	<param name="nXDest">The leftmost x-coordinate of the destination rectangle (in pixels).</param>
+	<param name="nYDest">The topmost y-coordinate of the destination rectangle (in pixels).</param>
+	<param name="nWidth">The width of the source and destination rectangles (in pixels).</param>
+	<param name="nHeight">The height of the source and the destination rectangles (in pixels).</param>
+	<param name="hdcSrc">Handle to the source device context.</param>
+	<param name="nXSrc">The leftmost x-coordinate of the source rectangle (in pixels).</param>
+	<param name="nYSrc">The topmost y-coordinate of the source rectangle (in pixels).</param>
+	<param name="dwRop">A raster-operation code.</param>
+	<returns>
+		<c>true</c> if the operation succeeded, <c>false</c> otherwise.
+ </returns>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.SRCCOPY">
+	<summary>dest = source</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.SRCPAINT">
+	<summary>dest = source OR dest</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.SRCAND">
+	<summary>dest = source AND dest</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.SRCINVERT">
+	<summary>dest = source XOR dest</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.SRCERASE">
+	<summary>dest = source AND (NOT dest)</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.NOTSRCCOPY">
+	<summary>dest = (NOT source)</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.NOTSRCERASE">
+	<summary>dest = (NOT src) AND (NOT dest)</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.MERGECOPY">
+	<summary>dest = (source AND pattern)</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.MERGEPAINT">
+	<summary>dest = (NOT source) OR dest</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.PATCOPY">
+	<summary>dest = pattern</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.PATPAINT">
+	<summary>dest = DPSnoo</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.PATINVERT">
+	<summary>dest = pattern XOR dest</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.DSTINVERT">
+	<summary>dest = (NOT dest)</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.BLACKNESS">
+	<summary>dest = BLACK</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.WHITENESS">
+	<summary>dest = WHITE</summary>
+</member><member name="F:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations.CAPTUREBLT">
+	<summary>
+ Capture window as seen on screen.  This includes layered windows 
+ such as WPF windows with AllowsTransparency="true"
+ </summary>
+</member><member name="T:MultiMonWallpaper.sys_DrawImageClipped.TernaryRasterOperations">
+	<summary>
+     Specifies a raster-operation code. These codes define how the color data for the
+     source rectangle is to be combined with the color data for the destination
+     rectangle to achieve the final color.
+ </summary>
+</member><member name="P:MultiMonWallpaper.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MultiMonWallpaper.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:MultiMonWallpaper.My.Resources.Resources.HelpText">
+	<summary>
+  Looks up a localized string similar to {\rtf1\ansi\ansicpg1252\deff0\deflang1031{\fonttbl{\f0\fswiss\fprq2\fcharset0 Segoe UI;}{\f1\fmodern\fprq1\fcharset0 Courier New;}}
+{\colortbl ;\red128\green0\blue0;\red255\green0\blue0;\red128\green128\blue128;}
+{\*\generator Msftedit 5.41.21.2508;}\viewkind4\uc1\pard\f0\fs20{\pict\wmetafile8\picwgoal719\pichgoal719 
+010009000003b80d00000000a20d00000000050000000b0200000000050000000c02f504f504a2
+0d0000430f2000cc0000003000300000000000f504f50400000000280000003000000030000000
+0100180000000000001b0000c40e0 [rest of string was truncated]";.
+</summary>
+</member><member name="T:MultiMonWallpaper.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,6 @@
+﻿frm_options__chkShowAlways<=	FALSE<=	
+frm_options__chkAccept<=	TRUE<=	
+frm_options__rbFiletype<=	bmp<=	
+frm_options__txtBmpPath<=	C:\Windows\web\composed_wallpaper.bmp<=	
+acceptedTerms<=	true<=	
+form1__Rect<=	92;92;819;416<=	

@@ -1,0 +1,17 @@
+﻿frm_options__chkShowAlways<=	FALSE<=	
+frm_options__chkAccept<=	TRUE<=	
+frm_options__rbFiletype<=	jpg<=	
+frm_options__txtBmpPath<=	C:\Windows\web\composed_wallpaper.jpg<=	
+acceptedTerms<=	true<=	
+form1__Rect<=	1566;104;1386;474<=	
+picFile1<=	C:\Windows\Web\Wallpaper\Christmas-22.jpg<=	
+recentFiles<=	C:\Windows\Web\Wallpaper\Colibri-1920x1200.jpg|²ZS³|C:\Windows\Web\Wallpaper\Christmas-22.jpg|²ZS³|C:\Windows\Web\Wallpaper\Pink_Light_Drawn_Vector.jpg|²ZS³|C:\Windows\Web\Wallpaper\Pussy-cat_wallpapers_7567_1920x1200.jpg|²ZS³|C:\Windows\Web\Wallpaper\Vector_Pattern_Windows_7.jpg|²ZS³|C:\Windows\Web\Wallpaper\vector_love_by_bustum.jpg|²ZS³|C:\Windows\Web\Wallpaper\Windows Seven Wallpaper (3).jpg|²ZS³|C:\Windows\Web\Wallpaper\zelena-silueta.jpg|²ZS³|C:\Windows\Web\Wallpaper\Windows-Ultimate-Wallpaper-Strands_1.jpg|²ZS³|C:\Windows\Web\Wallpaper\windows_7_logon_reloaded_by_tinytimscrutches1.jpg|²ZS³|C:\Windows\Web\Wallpaper\Parallel_Universe_by_envoyzero.jpg|²ZS³|C:\Windows\Web\Wallpaper\Squaratron_by_Reflectionartwork.jpg<=	
+picFile0<=	C:\Windows\Web\Wallpaper\Vector_Pattern_Windows_7.jpg<=	
+progRegistered<=	true<=	
+progRegName<=	Max Weller<=	
+progRegEMail<=	<=	
+progRegDate<=	Samstag, 20. November 2010 17:26:41<=	
+progRegInfo<=	MailOK=FALSE<=	
+progRegisteredDone<=	true<=	
+frm_options__chkDontRegister<=	FALSE<=	
+frm_options__chkAutoApply<=	TRUE<=	

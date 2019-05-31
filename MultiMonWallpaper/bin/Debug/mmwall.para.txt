@@ -1,0 +1,20 @@
+﻿frm_options__chkShowAlways<=	FALSE<=	
+frm_options__chkAccept<=	TRUE<=	
+frm_options__chkAutoApply<=	TRUE<=	
+frm_options__rbFiletype<=	bmp<=	
+frm_options__txtBmpPath<=	C:\yPara\composed_wallpaper.bmp<=	
+acceptedTerms<=	true<=	
+picFile1<=	D:\Bilder\upload\langeoog\06_07_Sonnenuntergang HDR.jpg<=	
+recentFiles<=	D:\Bilder\Calender_By_PhotoPeer_1366x768\6_June_1366.jpg|²ZS³|D:\Bilder\Calender_By_PhotoPeer_1366x768\3_March_1366.jpg|²ZS³|D:\Bilder\Calender_By_PhotoPeer_1366x768\2_February_1366.jpg|²ZS³|D:\Bilder\Calender_By_PhotoPeer_1366x768\1_January_1366.jpg|²ZS³|D:\Bilder\Calender_By_PhotoPeer_1366x768\8_August_1366.jpg|²ZS³|D:\Bilder\Calender_By_PhotoPeer_1366x768\7_July_1366.jpg|²ZS³|D:\Bilder\upload\langeoog\06_07_Sonnenuntergang HDR.jpg|²ZS³|D:\Bilder\upload\langeoog\Sonnenuntergang_Landscape_huge.jpg|²ZS³|D:\Bilder\2011-06-04\HDR_Strasse.jpg|²ZS³|D:\Bilder\upload\langeoog\06_05_Sonnenuntergang HDR Landscape.jpg|²ZS³|C:\Windows\Web\Wallpaper\Nature\img4.jpg|²ZS³|C:\Windows\Web\Wallpaper\Nature\img6.jpg|²ZS³|D:\Bilder\2011-06-03\HDR_Erdbeere.jpg|²ZS³|C:\Windows\Web\Wallpaper\Windows-7-Wallpaper.jpg|²ZS³|C:\Windows\Web\Wallpaper\Nature\img5.jpg|²ZS³|C:\Windows\Web\Wallpaper\Nature\img2.jpg|²ZS³|C:\Windows\Web\Wallpaper\Nature\img1.jpg|²ZS³|C:\Windows\Web\Wallpaper\Nature\img3.jpg<=	
+picFile0<=	D:\Bilder\Calender_By_PhotoPeer_1366x768\6_June_1366.jpg<=	
+form1__Rect<=	1478;35;1224;464<=	
+frm_options__chkDontRegister<=	FALSE<=	
+progRegisteredDone<=	true<=	
+progRegistered<=	true<=	
+progRegName<=	Max Weller<=	
+progRegEMail<=	<=	
+progRegDate<=	Samstag, 20. November 2010 17:30:31<=	
+progRegInfo<=	MailOK=FALSE<=	
+picStretch0<=	true<=	
+picStretch1<=	true<=	
+picBgColor1<=	Black<=	
